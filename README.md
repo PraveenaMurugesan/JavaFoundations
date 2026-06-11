@@ -1,2 +1,2 @@
 # JavaFoundations
-foundation of java with basic things,
+foundation of java with basic things.
